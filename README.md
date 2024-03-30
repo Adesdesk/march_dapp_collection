@@ -4,7 +4,7 @@ This repository is a collection of 3 smart contracts namely MyToken, DeliveryEsc
 built to suit their unique purposes. They are;
 
 ## Description
-###1
+### 1
 The MyToken smart contract implements a simple token system. It allows holders of the token to transfer tokens to one another, 
 while keeping track of their balances.
 
@@ -12,7 +12,7 @@ Successfully verified contract MyToken on Etherscan.
 https://mumbai.polygonscan.com/address/0xd22c0ba4EA50F0D0e3Fa5578bb8a48E48EAb0BDb#code
 Verified MyToken
 
-###2
+### 2
 The DeliveryEscrow smart contract implements a simple escrow system through which two parties; a buyer and a seller can manage a 
 transaction, such that the buyer can commit funds to the contract until the seller fulfills their part of delivery. Pay-out can then 
 be triggered automaticall, as soon as buyer confirms delivery of a purchased item.
@@ -21,7 +21,7 @@ Successfully verified contract DeliveryEscrow on Etherscan.
 https://mumbai.polygonscan.com/address/0x142aC594d10Fda03790B05E410b26315A025Bb67#code
 Verified DeliveryEscrow
 
-###3
+### 3
 The third contract, Lottery, implements a simple lottery system. It allows users buy tickets by maken some funds deposit to the contract.
 A random winner is then selected at a specified time to receive the proceeds of deposits made to the contract.
 
